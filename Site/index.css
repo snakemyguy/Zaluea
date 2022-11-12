@@ -21,6 +21,10 @@ body {
     animation: startAnimation ease-in 0.8s;
 }
 
+.img-Panda {
+  width: 300px;
+}
+
 .bar {
     background-color: #272727;
     height: 50px;
